@@ -547,54 +547,55 @@ footer p {
 
   .info img {
     margin-top: 150px;
-    margin-left: 150px;
-    width: 300px;
+    /* margin-left: 150px; */
+    width: 100%;
   }
 
   .info-text {
-    width: 300px;
-    margin-left: 300px;
+    width: 100%;
+    /* margin-left: 300px; */
   }
 
   .info-text h2 {
     font-size: 18px;
     text-align: left;
-}
+  }
 
-.info-text p {
-  font-size: 12px;
-}
+  .info-text p {
+    font-size: 12px;
+  }
 
-.testimonials {
-  width: 100%;
-}
+  .testimonials {
+    width: 100%;
+  }
 
-.profile-card p {
-  font-size: 12px;
-}
+  .profile-card p {
+    font-size: 12px;
+  }
 
-.subscription {
-  width: 100%;
-  margin-top: 10px;
-}
+  .subscription {
+    width: 100%;
+    margin-top: 10px;
+  }
 
-.sub-text p {
-  font-size: 12px;
-}
+  .sub-text p {
+    font-size: 12px;
+  }
 
-.contact-info {
-  width: 310px;
-  margin-top: 200px;
-  padding-left: 40px;
-}
+  .contact-info {
+    width: 310px;
+    margin-top: 200px;
+    padding-left: 40px;
+  }
 
-.contact-logo {
-  margin-top: -70px;
-}
+  .contact-logo {
+    margin-top: -70px;
+  }
 
-.contact-info p, a {
-  font-size: 12px;
-}
+  .contact-info p,
+  a {
+    font-size: 12px;
+  }
 
   section {
     width: 100px;
