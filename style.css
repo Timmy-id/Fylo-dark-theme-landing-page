@@ -547,13 +547,13 @@ footer p {
 
   .info img {
     margin-top: 150px;
-    /* margin-left: 150px; */
-    width: 100%;
+    margin-left: 150px;
+    width: 300px;
   }
 
   .info-text {
-    width: 100%;
-    /* margin-left: 300px; */
+    width: 300px;
+    margin-left: 300px;
   }
 
   .info-text h2 {
